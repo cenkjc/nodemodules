@@ -1,4 +1,4 @@
-import { SearchParams } from "./SearchParams.ts";
+import { SearchParams } from "https://raw.githubusercontent.com/cenkjc/nodemodules/master/SearchParams.ts";
 
 export class GqlService{
     public search(searchParams: SearchParams) : any{
